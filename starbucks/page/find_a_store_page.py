@@ -9,5 +9,3 @@ class findAStore():
         find_a_store = self.driver.find_element(By.CLASS_NAME,"sb-textLink.text-noUnderline.text-semibold.sb-findAStorePin.inline-block.pr3.pr2")
         find_a_store.click()
 
-    def demo(self):
-        pass
